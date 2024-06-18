@@ -1,0 +1,12 @@
+CUDA_VISIBLE_DEVICES=0 python ./test.py --datapath "../datasets" \
+                 --benchmark coco \
+                 --fold 1 \
+                 --bsz 1 \
+                 --nworker 4 \
+                 --backbone resnet50 \
+                 --feature_extractor_path "../backbones/resnet50.pth" \
+                 --logpath "./logs" \
+                 --load "" \
+                 --nshot 1 \
+                 --vispath "./vis/" \
+                 --visualize
