@@ -17,8 +17,6 @@ Download datasets following the HSNet https://github.com/juhongm999/hsnet:
 
 > #### 2. COCO-20<sup>i</sup>
 > Download COCO2014 train/val images and annotations.
-> 
-> Download COCO2014 train/val annotations.
 
 ## Prepare backbones
 
