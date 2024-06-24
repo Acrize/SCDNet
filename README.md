@@ -12,10 +12,12 @@ Download datasets following the HSNet https://github.com/juhongm999/hsnet:
 
 > #### 1. PASCAL-5<sup>i</sup>
 > Download PASCAL VOC2012 devkit (train/val data).
+> 
 > Download PASCAL VOC2012 SDS extended mask annotations.
 
 > #### 2. COCO-20<sup>i</sup>
-> Download COCO2014 train/val images and annotations:.
+> Download COCO2014 train/val images and annotations.
+> 
 > Download COCO2014 train/val annotations.
 
 ## Prepare backbones
